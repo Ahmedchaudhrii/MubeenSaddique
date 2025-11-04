@@ -5,17 +5,17 @@ function EventsMarquee() {
   const marqueeServices = [
     {
       title: "Luxury Wedding Setups",
-      image: "/src/assets/marquee/wedding.jpg",
+      image: "https://res.cloudinary.com/dogdyxazy/image/upload/v1762177734/couples.events_1708056410_3303739077647369371_39867527339_rebrav.jpg",
       description: "Elegant marquees, floral decor, and lighting for unforgettable wedding experiences.",
     },
     {
       title: "Corporate Events",
-      image: "/src/assets/marquee/corporate.jpg",
+      image: "https://res.cloudinary.com/dogdyxazy/image/upload/v1762178570/couples.events_1655124861_2859717065658161637_39867527339_j3khdm.jpg",
       description: "Professional setups for seminars, product launches, and executive gatherings.",
     },
     {
       title: "Community Celebrations",
-      image: "/src/assets/marquee/community.jpg",
+      image: "https://res.cloudinary.com/dogdyxazy/image/upload/v1762178570/couples.events_1690123654_3153308216891323983_39867527339_lxfouz.jpg",
       description: "Festive marquees for local events, fundraisers, and cultural programs.",
     },
   ];

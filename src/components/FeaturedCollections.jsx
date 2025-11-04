@@ -5,25 +5,26 @@ function FeaturedCollections() {
     {
       title: "Car Collection",
       description: "Step into Mubeen’s garage — a curated lineup of luxury rides, vintage classics, and performance beasts.",
-      image: "/src/assets/cars/car-banner.jpg",
+      image: "https://res.cloudinary.com/dogdyxazy/image/upload/v1761916594/WhatsApp_Image_2025-10-31_at_14.49.29_2_prbyke.jpg",
+
       link: "/cars",
     },
     {
       title: "Bike Collection",
       description: "From superbikes to custom builds, Mubeen’s two-wheel fleet reflects speed, style, and street presence.",
-      image: "/src/assets/bikes/bike-banner.jpg",
+      image: "https://res.cloudinary.com/dogdyxazy/image/upload/v1761921829/WhatsApp_Image_2025-10-31_at_16.48.16_xpmnlx.jpg",
       link: "/bikes",
     },
     {
       title: "Podcast Series",
       description: "Raw conversations on mindset, hustle, and influence — hosted by Mubeen Saddique.",
-      image: "/src/assets/podcast/podcast-banner.jpg",
+      image: "https://res.cloudinary.com/dogdyxazy/image/upload/v1762177116/podcast_sffezo.jpg",
       link: "/podcast",
     },
     {
       title: "Business Ventures",
       description: "Explore Mubeen’s empire: flipping cars, event marquees, ecommerce fashion, and influencer branding.",
-      image: "/src/assets/business/business-banner.jpg",
+      image: "https://res.cloudinary.com/dogdyxazy/image/upload/v1762176483/akaarcreativeagency_1748446824_3642454489777251908_67761740264_m6mygm.jpg",
       link: "/business",
     },
   ];

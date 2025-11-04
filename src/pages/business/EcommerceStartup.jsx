@@ -5,17 +5,17 @@ function EcommerceStartup() {
   const features = [
     {
       title: "Streetwear Meets Strategy",
-      image: "/src/assets/ecommerce/streetwear.jpg",
+      image: "https://res.cloudinary.com/dogdyxazy/image/upload/v1761299070/IMG_4339_iu1x52.jpg",
       description: "Mubeen’s fashion line blends bold design with business sense — built for creators and hustlers.",
     },
     {
       title: "Modular Storefronts",
-      image: "/src/assets/ecommerce/storefront.jpg",
+      image: "https://res.cloudinary.com/dogdyxazy/image/upload/v1761299285/IMG_4735_h9oipx.jpg",
       description: "Custom-built ecommerce platforms with clean UI, secure payments, and mobile-first design.",
     },
     {
       title: "Brand Identity & Launch",
-      image: "/src/assets/ecommerce/branding.jpg",
+      image: "https://res.cloudinary.com/dogdyxazy/image/upload/v1761567684/masafir_logo_xbhowd.jpg",
       description: "From logo to launch — Mubeen helps you craft a brand that connects and converts.",
     },
   ];

@@ -5,17 +5,17 @@ function InfluencerBranding() {
   const services = [
     {
       title: "Personal Brand Strategy",
-      image: "/src/assets/influencer/brand-strategy.jpg",
+      image: "https://res.cloudinary.com/dogdyxazy/image/upload/v1762188360/mubeeninsta2_cr5mho.jpg",
       description: "Define your niche, voice, and visual identity to stand out in a crowded digital space.",
     },
     {
       title: "Content & Media Coaching",
-      image: "/src/assets/influencer/content-coaching.jpg",
+      image: "https://res.cloudinary.com/dogdyxazy/image/upload/v1762177116/podcast_sffezo.jpg",
       description: "Learn how to create high-impact content that builds trust, drives engagement, and grows your audience.",
     },
     {
       title: "Platform Launch & Monetization",
-      image: "/src/assets/influencer/platform-launch.jpg",
+      image: "https://res.cloudinary.com/dogdyxazy/image/upload/v1762188360/mubeentiktok2_n2xyrd.jpg",
       description: "From websites to merch stores — Mubeen helps influencers turn attention into income.",
     },
   ];
