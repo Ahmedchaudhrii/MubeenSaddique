@@ -24,7 +24,7 @@ function WhyChooseMe() {
         {/* Right: Mubeen's Image or Brand Visual */}
         <div className="flex justify-center">
           <img
-            src="mubeen-saddique/public/picture/Gemini_Generated_Image_cna5rlcna5rlcna5.png"
+            src="https://res.cloudinary.com/dogdyxazy/image/upload/v1762874603/mubeenlogo2_ggwlpw.png"
             alt="Mubeen Saddique"
             className="w-full max-w-md rounded-lg shadow-md"
           />

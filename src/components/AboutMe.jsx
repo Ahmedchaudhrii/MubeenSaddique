@@ -8,7 +8,7 @@ function AboutMe() {
         {/* Left: Image or Visual */}
         <div className="flex justify-center">
           <img
-            src="/picture/mubeen-profile.png"
+            src="https://res.cloudinary.com/dogdyxazy/image/upload/v1762874603/mubeenlogo2_ggwlpw.png"
             alt="Mubeen Saddique"
             className="w-full max-w-sm rounded-lg shadow-md"
           />
