@@ -21,19 +21,20 @@ function Navbar() {
         <button
           className="md:hidden text-[#594A3D] text-2xl focus:outline-none"
           onClick={() => setIsOpen(!isOpen)}
+          aria-label="Toggle navigation"
         >
-          ☰
+          {isOpen ? "✖" : "☰"}
         </button>
 
-        {/* Desktop Nav Links */}
+        {/* Desktop Navigation */}
         <nav className="hidden space-x-6 md:flex">
           {navLinks}
         </nav>
       </div>
 
-      {/* Mobile Menu */}
+      {/* Mobile Navigation */}
       {isOpen && (
-        <div className="px-4 py-2 space-y-2 bg-white shadow-md md:hidden">
+        <div className="px-4 py-3 space-y-2 bg-white shadow-md md:hidden">
           {navLinks}
         </div>
       )}
